@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\Lab\Ev\bin\Debug\net5.0\Ev.exe
+C:\Users\abbasfm\source\repos\Lab\Ev\bin\Debug\net5.0\Ev.deps.json
+C:\Users\abbasfm\source\repos\Lab\Ev\bin\Debug\net5.0\Ev.runtimeconfig.json
+C:\Users\abbasfm\source\repos\Lab\Ev\bin\Debug\net5.0\Ev.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\Lab\Ev\bin\Debug\net5.0\Ev.dll
+C:\Users\abbasfm\source\repos\Lab\Ev\bin\Debug\net5.0\ref\Ev.dll
+C:\Users\abbasfm\source\repos\Lab\Ev\bin\Debug\net5.0\Ev.pdb
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.dll
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\ref\Ev.dll
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.pdb
+C:\Users\abbasfm\source\repos\Lab\Ev\obj\Debug\net5.0\Ev.genruntimeconfig.cache
